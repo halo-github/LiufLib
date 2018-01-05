@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LiufLib_Example' do
+  pod 'LiufLib', :path => '../'
+
+  target 'LiufLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
