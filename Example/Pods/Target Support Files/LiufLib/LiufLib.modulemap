@@ -1,0 +1,6 @@
+framework module LiufLib {
+  umbrella header "LiufLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

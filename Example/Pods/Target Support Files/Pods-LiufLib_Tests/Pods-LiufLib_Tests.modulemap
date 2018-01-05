@@ -1,0 +1,6 @@
+framework module Pods_LiufLib_Tests {
+  umbrella header "Pods-LiufLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

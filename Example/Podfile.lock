@@ -1,0 +1,16 @@
+PODS:
+  - LiufLib (0.1.0)
+
+DEPENDENCIES:
+  - LiufLib (from `../`)
+
+EXTERNAL SOURCES:
+  LiufLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LiufLib: aa837e81059304324fe0efed9761bcfb93159a17
+
+PODFILE CHECKSUM: 86e374185d7af81428deccf0565e9830c55618ee
+
+COCOAPODS: 1.2.1

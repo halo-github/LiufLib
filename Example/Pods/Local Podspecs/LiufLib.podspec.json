@@ -1,0 +1,22 @@
+{
+  "name": "LiufLib",
+  "version": "0.1.0",
+  "summary": "A short description of LiufLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/halo-github/LiufLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "halo-github": "a0147520@sina.com"
+  },
+  "source": {
+    "git": "https://github.com/halo-github/LiufLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LiufLib/Classes/**/*"
+}
