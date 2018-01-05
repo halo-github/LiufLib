@@ -20,6 +20,7 @@
     if (self = [super initWithFrame:frame]) {
         self.backgroundColor = [UIColor cyanColor];
     }
+    
     return self;
 }
 @end
